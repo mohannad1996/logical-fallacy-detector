@@ -1,0 +1,1 @@
+The goal of this project is to have a proof of concept logical fallacy detector program.
